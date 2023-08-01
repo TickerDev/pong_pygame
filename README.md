@@ -1,1 +1,2 @@
-"# pong_pygame" 
+Install
+`pip install pygame`
